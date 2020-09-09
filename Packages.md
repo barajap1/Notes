@@ -21,3 +21,4 @@ The `tidytable` package:
 
 The `datapasta` package: 
 
+The `DataEditR` package: DataEditR is an R package that makes it easy to view, enter and edit data within R, due to its convenient interactive GUI that supports many of the data manipulation operations supported by other commonly used GUI-oriented software. [link](https://dillonhammill.github.io/DataEditR/)
